@@ -1,17 +1,25 @@
 # BEST HACK'23
 
-Данное решение команды GibData заняло второе место (первое на лидерборде) в [BEST Hack при МГТУ им. Н.Э. Баумана](https://vk.com/besthack2023)
+Represented sollutions take the first place (semi-final folder) into semi-final and the second place (the first on the leaderboard, final folder) into the [BEST Hack при МГТУ им. Н.Э. Баумана](https://vk.com/besthack2023)
 
 ![image](https://i.ibb.co/x2JF24G/image.png)
 
-Промежуточный | Private
---- | ---
-*0.2708* | *0.3752*
+- Semi-final:
+  ## Task:
+  > Develop maching learning model for predicting residual recource  of wagon wheelsets
 
-## Задача
-> Необходимо разработать модель машинного обучения, способную
-прогнозировать длительность простоя железнодорожного транспорта на
-станциях грузовых операций на заданной выборке
+  ## Metric:
+  > MAE: mean absolute error
+  
+- Final:
+  ## Task:
+  > Develop machine learning model for predicting downtime of
+  trailway transport within cargo operation stops
 
-## Метрика
-> Качество модели оценивается по метрике «Доля предсказаний с ошибкой <12 ч»
+  ## Metric
+  > Prediction's fraction with absolute error less than 12 hours.
+
+  ## Score
+  Intermediate | Private
+  --- | ---
+  *0.2708* | *0.3752*
