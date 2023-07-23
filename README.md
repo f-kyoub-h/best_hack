@@ -6,14 +6,14 @@ Represented sollutions take the first place (semi-final folder) into semi-final 
 
 - Semi-final:
   ## Task:
-  > Develop maching learning model for predicting residual recource  of wagon wheelsets
+  > Develop machine-learning model for predicting residual recource  of wagon wheelsets
 
   ## Metric:
   > MAE: mean absolute error
   
 - Final:
   ## Task:
-  > Develop machine learning model for predicting railway transport
+  > Develop machine-learning model for predicting railway transport
   idle time within cargo operation stops
 
   ## Metric
