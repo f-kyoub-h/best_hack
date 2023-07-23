@@ -13,11 +13,11 @@ Represented sollutions take the first place (semi-final folder) into semi-final 
   
 - Final:
   ## Task:
-  > Develop machine learning model for predicting downtime of
-  trailway transport within cargo operation stops
+  > Develop machine learning model for predicting railway transport
+  idle time within cargo operation stops
 
   ## Metric
-  > Prediction's fraction with absolute error less than 12 hours.
+  > Prediction's fraction with error less than 12 hours.
 
   ## Score
   Intermediate | Private
